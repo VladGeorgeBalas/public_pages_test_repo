@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-WU4IGNYX.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/public_pages_test_repo/build/_shared/chunk-WU4IGNYX.js";import"/public_pages_test_repo/build/_shared/chunk-OZE3FFNP.js";export default a();
